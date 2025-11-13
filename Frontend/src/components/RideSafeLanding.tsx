@@ -1,7 +1,7 @@
 // src/components/RideSafeLanding.tsx
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import heroImage from "../assets/react.svg"; // update path to your actual image
+import heroImage from "../assets/pic1.jpg"; // update path to your actual image
 
 const RideSafeLanding: React.FC = () => {
   const navigate = useNavigate();
